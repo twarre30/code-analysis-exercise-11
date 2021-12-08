@@ -51,4 +51,3 @@ function (actualAge){
 * Contains a plausible collection of test cases
 * Outputs are accurately derived from inputs
 * Summary is plausible
-  * Official answer is that it takes a number of years, and returns an object containing what that number of years represents in human, cat, and dog years. Cats and dogs get 15 for their first year and 9 for their second year. Cats get 4 dog years per year after that, dogs get 5 dog years per year after that.
