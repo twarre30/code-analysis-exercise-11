@@ -27,8 +27,8 @@ function (actualAge){			// 2
   if (actualAge == 2){			// true
     return {
       humanYears: actualAge,		// humanYears: 2,
-      catYears: 24,			   catYears: 24,
-      dogYears: 24,			   dogYears: 24,		
+      catYears: 24,			// catYears: 24,
+      dogYears: 24,			// dogYears: 24,		
     }
   }
 
@@ -68,8 +68,8 @@ function (actualAge){			// 5
 
   return {
     humanYears: actualAge,			// humanYears: 5,
-    catYears: (actualAge - 2) * 4 + 24,		   catYears: 36,
-    dogYears: (actualAge - 2) * 5 + 24,		   dogYears: 39,	
+    catYears: (actualAge - 2) * 4 + 24,		// catYears: 36,
+    dogYears: (actualAge - 2) * 5 + 24,		// dogYears: 39,	
   }
 }
 
@@ -102,10 +102,12 @@ function (actualAge){			// 50
 
   return {
     humanYears: actualAge,			// humanYears: 50,
-    catYears: (actualAge - 2) * 4 + 24,		   catYears: 216,
-    dogYears: (actualAge - 2) * 5 + 24,		   dogYears: 264,		
+    catYears: (actualAge - 2) * 4 + 24,		// catYears: 216,
+    dogYears: (actualAge - 2) * 5 + 24,		// dogYears: 264,		
   }
 }
+
+```
 
 ## Summary
 
