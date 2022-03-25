@@ -57,9 +57,9 @@ function (actualAge){
 
 | Inputs | Outputs |
 | :---: | :---: |
-| 2  | humanYears: 2, catYears: 24, dogYears: 24 |
-| 5 | humanYears: 5, catYears: 36, dogYears: 39 |
-| 50 | humanYears: 50, catYears: 216, dogYears: 264 |
+| 2  |{humanYears: 2, catYears: 24, dogYears: 24} |
+| 5 |{humanYears: 5, catYears: 36, dogYears: 39} |
+| 50 | {humanYears: 50, catYears: 216, dogYears: 264} |
 
 
 ## for input 2
